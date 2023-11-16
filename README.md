@@ -1,0 +1,3 @@
+# UTS-BASIS-DATA
+NAMA: Winky Adinata 
+NIM:20220801077
